@@ -19,5 +19,5 @@ module "cluster" {
   rg-name       = "${azurerm_resource_group.k8s.name}"
   subnet-id	= "${module.network.subnet-id}"
   ARM_CLIENT_ID	= "${var.id}"
-  ARM_CLIENT_SECRET	= "{var.secret}"
+  ARM_CLIENT_SECRET	= "${var.secret}"
 }
