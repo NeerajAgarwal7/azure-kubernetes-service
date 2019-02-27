@@ -27,7 +27,7 @@ resource "azurerm_kubernetes_cluster" "k8s" {
   }
 
   tags {
-    Environment = "Production"
+    Environment = "Devlopment"
   }
 }
 
