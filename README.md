@@ -15,6 +15,10 @@ It eliminates the burden of ongoing operations and maintenance by provisioning, 
    $terraform init
 ```
 2. Verify the resources that will be created and create a plan.
-   terraform plan -out plan.out
+```
+   $terraform plan -out plan.out
+```
 3. apply the above created plan and setup the infrastructure for the AKS 
-   terraform apply "plan.out"
+```
+   $terraform apply "plan.out"
+```
