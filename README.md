@@ -3,7 +3,7 @@ terraform code(module format) to set up kubernetes cluster on azure
 
 **What is AKS ?**
 
-Azure Kubernetes Service (AKS) manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise. 
+**A**zure **K**ubernetes **S**ervice (AKS) manages your hosted Kubernetes environment, making it quick and easy to deploy and manage containerized applications without container orchestration expertise. 
 
 **Why AKS ?**
 
