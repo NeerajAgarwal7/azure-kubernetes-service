@@ -22,7 +22,7 @@ It eliminates the burden of ongoing operations and maintenance by provisioning, 
 ```
    $ terraform apply "plan.out"
 ```
-4. Run the script file to configure kubernetes
+4. Run the script file to configure kubectl
 ```
    $ ./script.sh
 ```
