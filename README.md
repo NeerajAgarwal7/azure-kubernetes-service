@@ -10,7 +10,7 @@ Azure Kubernetes Service (AKS) manages your hosted Kubernetes environment, makin
 It eliminates the burden of ongoing operations and maintenance by provisioning, upgrading, and scaling resources on demand, without taking your applications offline.
 
 **How to Run the Terraform script ?**
-1. go to dev folder and download all terraform plug-in.
+1. go to **dev** folder and download all terraform plug-in.
 ```
    $terraform init
 ```
