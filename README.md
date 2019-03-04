@@ -11,8 +11,8 @@ It eliminates the burden of ongoing operations and maintenance by provisioning, 
 
 **How to Run the Terraform script ?**
 1. go to dev folder and download all terraform plug-in.
-                      -$terraform init
+   -$terraform init
 2. Verify the resources that will be created and create a plan.
-                      -$terraform plan -out plan.out
+   -$terraform plan -out plan.out
 3. apply the above created plan and setup the infrastructure for the AKS 
-                      -$terraform apply "plan.out"
+   -$terraform apply "plan.out"
